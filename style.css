@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(1, 31, 31);
+    color: white;
+}
+
+p {
+    font-style: italic;
+
+}
+
+div .inline {
+    display: inline;
+
+}
+
+img {
+    border: 3px solid violet;
+    margin: 15px;
+}
+
+a {
+    color: pink;
+}
+
+table {
+    border-collapse: collapse;
+    border: 3px solid red;
+    width: 60%;
+    text-align: center;
+    background-color: rgb(202, 86, 86);
+    margin-left: 20%;
+}
+
+td, th {
+    border: 3px solid red;
+    padding: 8px; 
+}
